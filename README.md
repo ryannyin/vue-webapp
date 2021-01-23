@@ -1,6 +1,6 @@
 # vue-saint-web-app
 
-Social [web application](vue-saint-web-app.herokuapp.com) with feed page, profiles, selfies, etc. Getting endpoints from Drupal 8 backend.
+Social [web application](https://vue-saint-web-app.herokuapp.com) with feed page, profiles, selfies, etc. Getting endpoints from Drupal 8 backend.
 
 ## Project setup
 
